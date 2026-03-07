@@ -36,3 +36,4 @@ SNIPPET - settings.gradle:
 rootProject.name = "HelloFX2"
 
 include ':app'
+(><}
