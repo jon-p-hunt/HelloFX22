@@ -5,6 +5,7 @@ SNIPPET - build.gradle:
     alias(libs.plugins.android.application) apply false
 
 
+
 SNIPPET - gradle.properties:
 
 org.gradle.jvmargs=-Xmx2048m -Dfile.encoding=UTF-8
@@ -12,6 +13,8 @@ org.gradle.jvmargs=-Xmx2048m -Dfile.encoding=UTF-8
 android.useAndroidX=true
 
 android.nonTransitiveRClass=true
+
+
 
 SNIPPET - settings.gradle: 
 
