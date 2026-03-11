@@ -1,5 +1,7 @@
 Android Studio java program called HelloFX22 (uses google native UI instead of JavaFX)
 
+
+
 SNIPPET - build.gradle: 
 
     alias(libs.plugins.android.application) apply false
@@ -37,5 +39,7 @@ SNIPPET - settings.gradle:
         mavenCentral()
 
 rootProject.name = "HelloFX2"
+
+
 
 (><)
